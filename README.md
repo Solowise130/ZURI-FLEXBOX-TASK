@@ -1,2 +1,2 @@
 # ZURI-FLEXBOX-TASK
-This repository is focuses mainly on Flexbox.
+This repository focus mainly on Flexbox.
